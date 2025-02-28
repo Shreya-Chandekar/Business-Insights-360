@@ -11,7 +11,7 @@ Power BI Design Principles: Choosing the right visuals, formatting, and user-fri
 Deployment: Published the report in Power BI Service for business use  
 
 📸 Screenshots:  
-1️⃣ Finance dashboard view with KPIs and trends. 
+1️⃣ Finance dashboard view with KPIs and trends. [Business Insights - Finance View.png]  
 2️⃣ Data modelling involving 10+ tables. [BI 360 - Data Modelling.png]  
 
 
